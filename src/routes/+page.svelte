@@ -538,7 +538,7 @@ import {PROMPT_FILLER_EXPLANATION} from "$lib/constants.js";
 
 
   footer {
-    margin-top: 4rem;
+    margin-top: 6rem;
     text-align: center;
   }
 
