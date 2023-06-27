@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/api/generate-idea": [
+		"src/routes/api/generate-idea/+server.js"
+	]
+}
