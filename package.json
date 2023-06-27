@@ -12,6 +12,7 @@
 	"devDependencies": {
 		"@bulatdashiev/svelte-slider": "^1.0.3",
 		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/adapter-cloudflare": "^2.3.0",
 		"@sveltejs/adapter-netlify": "^2.0.6",
 		"@sveltejs/kit": "^1.5.0",
 		"svelte": "^3.54.0",
@@ -27,8 +28,5 @@
 		"svelte-loading-spinners": "^0.3.4",
 		"svelte-select": "^5.5.2",
 		"svelte-seo": "^1.5.3"
-	},
-	"engines": {
-		"node": ">=16.14"
-	  }
+	}
 }
