@@ -135,7 +135,7 @@ import {PROMPT_FILLER_EXPLANATION} from "$lib/constants.js";
           max_tokens: max_tokens,
           n: 1,
           stop: null,
-          temperature: 1.0,
+          temperature: 0.5,
           stream: true,
         }),
       });
