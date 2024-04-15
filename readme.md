@@ -4,8 +4,6 @@
 
 使用cloudflare pages部署，进行了适配，修改了依赖包。
 
-Telegram交流群：https://t.me/ai_cn2023
-
 构建方式：
 ![1687842598684.png](https://cdn-img.czl.net/2023/06/27/649a6f275cce1.png)
 
